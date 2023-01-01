@@ -1,0 +1,14 @@
+*{
+     margin: 0px;
+     padding: 0px;
+}
+
+.banner{
+     background-color: #627bf7;
+     width: 100%;
+     text-align: center;
+}
+.banner img {
+     min-width: 90%;
+     min-height: 30vh;
+}
